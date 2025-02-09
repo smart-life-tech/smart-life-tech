@@ -5,8 +5,8 @@
 I'm a **Computer and Electrical Electronics Engineer** with **10+ years** of experience in:  
 - **Embedded Systems & Firmware Development** 🖥️  
 - **Analog & Digital Hardware Design** ⚡  
-- **PCB Design** using Eagle, Proteus, and ExpressPCB 🎛️  
-- **Microcontrollers**: Arduino, ESP8266, ESP32, PIC, STM, nRF, and more 🚀  
+- **PCB Design** using kiCad, EDA Pro,Eagle, Proteus, and ExpressPCB 🎛️  
+- **Microcontrollers**: Arduino chips(AVR`s), ESP8266, ESP32, PIC, STM, nRF, and more 🚀  
 - **IoT & Automation Solutions** 🌍  
 
 ### 🔥 What I Do  
