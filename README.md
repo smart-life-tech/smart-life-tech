@@ -7,7 +7,8 @@ I'm a **Computer and Electrical Electronics Engineer** with **10+ years** of exp
 - **Analog & Digital Hardware Design** ⚡  
 - **PCB Design** using kiCad, EDA Pro,Eagle, Proteus, and ExpressPCB 🎛️  
 - **Microcontrollers**: Arduino chips(AVR`s), ESP8266, ESP32, PIC, STM, nRF, and more 🚀  
-- **IoT & Automation Solutions** 🌍  
+- **IoT & Automation Solutions** 🌍
+- **General electronics products development**
 
 ### 🔥 What I Do  
 I specialize in **hardware innovation** and **embedded programming**, developing solutions for:  
@@ -30,4 +31,4 @@ I specialize in **hardware innovation** and **embedded programming**, developing
 ### 🤝 Collaboration  
 I’m always open to **collaborations on hardware projects**, embedded systems, and IoT solutions. Let’s innovate together!  
 
-📬 **Reach Me**: [christlightworld@gmail.com](mailto:christlightworld@gmail.com)  
+
