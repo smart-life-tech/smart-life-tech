@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m **Smart-Life-Tech**  
+# 👋 Hi, I’m **CHORNYI**  
 
 ### 🔬 About Me  
 I'm a **Computer and Electrical Electronics Engineer** with **10+ years** of experience in:  
